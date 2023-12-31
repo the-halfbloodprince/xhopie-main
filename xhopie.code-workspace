@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "xhopie-client-next"
+		},
+		{
+			"path": "xhopie-server-node"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

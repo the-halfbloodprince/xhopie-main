@@ -1,0 +1,6 @@
+[submodule "xhopie-client-next"]
+	path = xhopie-client-next
+	url = https://github.com/the-halfbloodprince/xhopie-client-next.git
+[submodule "xhopie-server-node"]
+	path = xhopie-server-node
+	url = https://github.com/the-halfbloodprince/xhopie-server-node.git
