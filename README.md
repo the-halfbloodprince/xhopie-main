@@ -30,6 +30,8 @@ Commits are annotated with their purpose and scope for easier navigation and pro
 > Commit Message Body (optional)
 
 #### List of PURPOSES
+- **DIARY**
+	just updating the diary.md
 - **SYNC**
 	just syncing/updating submodules
 - **CONFIG**
