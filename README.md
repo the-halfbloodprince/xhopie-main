@@ -25,25 +25,27 @@ If you're new to this repository or unsure where to start, follow this README as
 ### Reading commits
 Commits are annotated with their purpose and scope for easier navigation and proper structure
 
-**Commit Structure**
+#### Commit Structure
 > [`PURPOSE` | `SCOPE`] Commit Message Heading
 > Commit Message Body (optional)
 
-List of PURPOSES:
-- CONFIG
+#### List of PURPOSES
+- **SYNC**
+	just syncing/updating submodules
+- **CONFIG**
 	makes configurational changes
 	like,
 	- adding dependencies
 	- making global file structure changes
-- FEATURE
+- **FEATURE**
 	adding features like:
 	- adding a new client component
 	- adding a new REST endpoint functionalities
-- REFACTOR
+- **REFACTOR**
 	refactors like:
 	- refactoring a react component to multiple individual components
-- OOPS
+- **OOPS**
 	made a mistake somewhere down the line, this commit is a part of an effort to fix it
 
-List of SCOPEs:
+#### List of SCOPEs
 - not decided yet, may introduce this later
